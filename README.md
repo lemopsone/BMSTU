@@ -5,7 +5,7 @@
 ## Содержание
 
 ### Полезные файлы для маководов
-- [Установка Ramus Educational на Macbook (проверено на M1 Pro)](github.com/lemopsone/BMSTU/main/ramus.md)
+- [Установка Ramus Educational на Macbook (проверено на M1 Pro)](../main/ramus.md)
 
 ### Лабораторные работы
 - [Лабораторные работы по C](github.com/lemopsone/BMSTU_Clabs)
